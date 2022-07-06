@@ -98,8 +98,9 @@
               <span>{{ block.settings.heading | escape }}</span>
             </h2>
           {%- when 'text' -%}
-            <div data-aos="fade-up"
-           data-aos-anchor-placement="bottom-center" class="banner__text {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
+            <div data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000" class="banner__text {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
               <span>{{ block.settings.text | escape }}</span>
             </div>
           {%- when 'buttons' -%}
