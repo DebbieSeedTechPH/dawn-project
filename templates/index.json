@@ -214,6 +214,23 @@
         "padding_top": 16,
         "padding_bottom": 28
       }
+    },
+    "165699176135eca1c2": {
+      "type": "FAQ-block",
+      "blocks": {
+        "50e61859-beb9-4ab0-942c-2c462fbb8cf7": {
+          "type": "faq",
+          "settings": {
+            "question": "Do you have a question?",
+            "answer": "<p>I have an answer<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "50e61859-beb9-4ab0-942c-2c462fbb8cf7"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -222,6 +239,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "165699176135eca1c2"
   ]
 }
