@@ -275,6 +275,14 @@
             "text": "",
             "url": ""
           }
+        },
+        "cea52466-844d-40a6-ba87-d6a6fcd6ec94": {
+          "type": "masonry-image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/longsleeve5.jpg",
+            "text": "",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -282,7 +290,8 @@
         "0278d902-b09a-4af9-b8f7-f097b25ea531",
         "67a184df-a32b-4a5b-a0a2-89734c544aa8",
         "50d6228a-e5b8-47d9-bc9d-3bdfa78a6e10",
-        "dd8b0b04-4e0f-40d0-a094-c3997fc086db"
+        "dd8b0b04-4e0f-40d0-a094-c3997fc086db",
+        "cea52466-844d-40a6-ba87-d6a6fcd6ec94"
       ],
       "settings": {
         "masonry-grid": "See More"
