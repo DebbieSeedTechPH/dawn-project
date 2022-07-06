@@ -24,7 +24,7 @@
     <h2 data-aos="flip-up" data-aos-duration="3000" class="collage-wrapper-title {{ section.settings.heading_size }}">{{ section.settings.heading | escape }}</h2>
     <div class="collage{% if section.settings.mobile_layout == 'collage' %} collage--mobile{% endif %}">
       {%- for block in section.blocks -%}
-        <div data-aos="zoom-in" class="collage__item collage__item--{{ block.type }} collage__item--{{ section.settings.desktop_layout }}" {{ block.shopify_attributes }}>
+        <div data-aos="zoom-in" data-aos-duration="3000" class="collage__item collage__item--{{ block.type }} collage__item--{{ section.settings.desktop_layout }}" {{ block.shopify_attributes }}>
           {%- case block.type -%}
             {%- when 'image' -%}
               <div class="collage-card color-{{ settings.card_color_scheme }}{% if block.settings.image_padding %} collage-card-spacing{% endif %}">
