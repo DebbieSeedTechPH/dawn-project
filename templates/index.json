@@ -232,6 +232,25 @@
       ],
       "settings": {
       }
+    },
+    "16571219370c7f5d59": {
+      "type": "masonry",
+      "blocks": {
+        "32b87d32-713d-46ab-bfe7-74f91d892068": {
+          "type": "masonry-image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/male-model-posing-outdoors.jpg",
+            "text": "Men's Fashion",
+            "url": "shopify:\/\/collections\/frontpage"
+          }
+        }
+      },
+      "block_order": [
+        "32b87d32-713d-46ab-bfe7-74f91d892068"
+      ],
+      "settings": {
+        "masonry-grid": ""
+      }
     }
   },
   "order": [
@@ -241,6 +260,7 @@
     "collage",
     "video",
     "multicolumn",
-    "165699176135eca1c2"
+    "165699176135eca1c2",
+    "16571219370c7f5d59"
   ]
 }
