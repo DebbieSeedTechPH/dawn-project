@@ -271,6 +271,7 @@
         "dd8b0b04-4e0f-40d0-a094-c3997fc086db": {
           "type": "masonry-image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/longsleeve3.jpg",
             "text": "",
             "url": ""
           }
