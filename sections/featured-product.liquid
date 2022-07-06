@@ -76,7 +76,7 @@
         </media-gallery>
       </div>
       <div class="product__info-wrapper grid__item">
-        <div data-aos="zoom-in" data-aos-duration="3000"  id="ProductInfo-{{ section.id }}" class="product__info-container">
+        <div id="ProductInfo-{{ section.id }}" class="product__info-container">
           {%- assign product_form_id = 'product-form-' | append: section.id -%}
 
           {%- for block in section.blocks -%}
