@@ -278,6 +278,7 @@
         },
         "cea52466-844d-40a6-ba87-d6a6fcd6ec94": {
           "type": "masonry-image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/longsleeve5.jpg",
             "text": "",
