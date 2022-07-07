@@ -215,24 +215,6 @@
         "padding_bottom": 28
       }
     },
-    "165699176135eca1c2": {
-      "type": "FAQ-block",
-      "blocks": {
-        "50e61859-beb9-4ab0-942c-2c462fbb8cf7": {
-          "type": "faq",
-          "disabled": true,
-          "settings": {
-            "question": "Do you have a question?",
-            "answer": "<p>I have an answer<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "50e61859-beb9-4ab0-942c-2c462fbb8cf7"
-      ],
-      "settings": {
-      }
-    },
     "16571219370c7f5d59": {
       "type": "masonry",
       "blocks": {
@@ -288,7 +270,7 @@
         "bbcbc074-046f-456e-81b5-1ff729b191c0": {
           "type": "masonry-image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/longsleeve8.webp",
+            "image": "shopify:\/\/shop_images\/indoorsy.webp",
             "text": "",
             "url": ""
           }
@@ -333,6 +315,24 @@
       "settings": {
         "masonry-grid": "See More"
       }
+    },
+    "165699176135eca1c2": {
+      "type": "FAQ-block",
+      "blocks": {
+        "50e61859-beb9-4ab0-942c-2c462fbb8cf7": {
+          "type": "faq",
+          "disabled": true,
+          "settings": {
+            "question": "Do you have a question?",
+            "answer": "<p>I have an answer<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "50e61859-beb9-4ab0-942c-2c462fbb8cf7"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -342,7 +342,7 @@
     "collage",
     "video",
     "multicolumn",
-    "165699176135eca1c2",
-    "16571219370c7f5d59"
+    "16571219370c7f5d59",
+    "165699176135eca1c2"
   ]
 }
