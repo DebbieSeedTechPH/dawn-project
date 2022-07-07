@@ -348,7 +348,6 @@
       "blocks": {
         "50e61859-beb9-4ab0-942c-2c462fbb8cf7": {
           "type": "faq",
-          "disabled": true,
           "settings": {
             "question": "Do you have a question?",
             "answer": "<p>I have an answer<\/p>"
