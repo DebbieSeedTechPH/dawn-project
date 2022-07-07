@@ -298,6 +298,14 @@
             "text": "",
             "url": ""
           }
+        },
+        "6d69846d-0996-48e1-a711-54bd26d96a71": {
+          "type": "masonry-image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/introverting_but_willing_to_discuss_dogs.webp",
+            "text": "",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -310,7 +318,8 @@
         "bbcbc074-046f-456e-81b5-1ff729b191c0",
         "1b5f9fde-9962-4750-8980-ad940349a9aa",
         "13bd492d-b7f9-410e-8216-3c36e2cff17c",
-        "cbce31a6-bffd-42f8-a1d0-b605e2277176"
+        "cbce31a6-bffd-42f8-a1d0-b605e2277176",
+        "6d69846d-0996-48e1-a711-54bd26d96a71"
       ],
       "settings": {
         "masonry-grid": "See More"
